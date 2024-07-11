@@ -9,4 +9,5 @@
 |-----------|---------|
 | quicksort | $O(n \log n)$ |
 | mergesort | $O(n \log n)$ |
+
 Note: quicksort is typically faster than mergesort because it hits the average case more often than the worst case.
