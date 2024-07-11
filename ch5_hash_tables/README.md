@@ -9,6 +9,7 @@
 - Hash tables are good for catching duplicates.
 
 | Action | Hash Table (Average) | Hash Table (Worst) | Arrays | Linked Lists |
+|--------|--------|--------|--------|--------|
 | Search | $O(1)$ | $O(n)$ | $O(1)$ | $O(n)$ |
 | Insert | $O(1)$ | $O(n)$ | $O(n)$ | $O(1)$ |
 | Delete | $O(1)$ | $O(n)$ | $O(n)$ | $O(1)$ |
