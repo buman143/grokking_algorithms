@@ -9,5 +9,5 @@
 | Data Structure | Search | Insert |
 |----------------|--------|--------|
 |Sorted Array | $O(\log n)$ | $O(n)$ |
-|Linked List  | $O(n) | $O(1) |
-|BST | SO(\log n)$ | $O(\log n)$ |
+|Linked List  | $O(n)$ | $O(1)$ |
+|BST | $O(\log n)$ | $O(\log n)$ |
